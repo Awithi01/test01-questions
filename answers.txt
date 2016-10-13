@@ -1,0 +1,83 @@
+1.Why do developers use source control?
+   To be able to track your changes and allow you to revise changes with your own work and others.
+
+2.What are two benefits of using git as your source control system?
+  Role-based codelines, Disposable Experimentation
+
+3.Why is it important to run the git config command?
+  to set up git
+  
+4.What is another name for source control?
+  Version Control System
+
+5.Name one other version control system.
+  Subversion
+
+6.What command would you use to make a local copy of a remote repository?
+  git clone
+  
+7.What is the main identifying factor of a commit?
+  Tag
+
+8.What is a single point in history called in git?
+  Commit
+
+9.What is an irreconcilable diff called?
+  conflict
+
+10.What is the command to view the latest changes in a remote repository without merging them into your local working copy?
+  git fetch
+
+11.What is the default name for the remote repository?
+   remote
+ 
+12.What is the command to create a new branch on a repository?
+   git branch
+
+13.What is the command to switch to a branch on a repository?
+    git checkout
+
+14.How do you create an identical but separate repository on GitHub?
+    git fork
+
+15.What is the command to combine the contents of one branch into another?
+   git merge
+
+16.What command is the combination of fetch and merge?
+   pull
+
+17.What command sends commits made locally to the remote repository?
+   git commit -m 
+
+18.What is the name of the pointer/reference that keeps track of your current git location?
+   tag
+
+19.What is the name for where code that's under source control is located?
+   ****
+
+20.What is the name of the area where changes are placed prior to forming a commit?
+   Stage
+
+21.What git command is commonly used to tag release versions of code?
+   git tag
+
+22.What command turns a folder into a repository tracked via source control?
+   ****
+
+23.What command lets you see the commit history of the branch you currently have checked out?
+   ****
+
+24.What command lets you see the state of various files under version control?
+   git list
+
+25.What command adds a modified file to stage?
+   git add
+
+26.What command collects all the staged changes and groups them into a single point of history?
+   ****
+
+27.Label the state names for 1, 2, 3, and 4.
+   1.untracked
+   2.unmodified
+   3.modified
+   4.staged
